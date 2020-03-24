@@ -3,10 +3,9 @@
   "version": "1.0.13",
   "description": "Generate a clickbait title by scraping and randomly selecting a BuzzFeed article",
   "main": "index.js",
-  "bin": { "clickbait-generator": "node ./index.js"},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm run clickbait-generator"
+    "start": "node index.js"
   },
   "author": "Adrian L Thomas",
   "license": "ISC",
