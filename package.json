@@ -1,5 +1,5 @@
 {
-  "name": "generate-clickbait",
+  "name": "clickbait-generator",
   "version": "1.0.0",
   "description": "Generate a clickbait title by scraping and randomly selecting a BuzzFeed article",
   "main": "index.js",
