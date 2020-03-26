@@ -1,4 +1,4 @@
-# Clickbate Generator
+# Clickbait Generator
 Pulls headlines from BuzzFeed.com and returns them in a list.
 
 ## Usage
