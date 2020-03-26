@@ -1,6 +1,6 @@
 {
   "name": "clickbait-generator",
-  "version": "1.0.15",
+  "version": "1.1.0",
   "description": "Generate a clickbait title by scraping and randomly selecting a BuzzFeed article",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,6 @@
   "author": "Adrian L Thomas",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
-    "got": "^10.6.0"
+    "rss-parser": "^3.7.6"
   }
 }
