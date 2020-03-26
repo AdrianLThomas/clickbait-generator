@@ -7,6 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "files": [
+    "index.js"
+  ],
+  "bin": {
+    "clickbait-generator": "index.js"
+  },
   "author": "Adrian L Thomas",
   "license": "ISC",
   "dependencies": {
