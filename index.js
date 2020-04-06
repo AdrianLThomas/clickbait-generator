@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// 👆 Used to tell Node.js that this is a CLI tool
+// 👆 Used to tell bash that this is a node CLI tool
 
 const Parser = require('rss-parser');
 const parser = new Parser();
